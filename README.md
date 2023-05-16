@@ -9,6 +9,7 @@
 [![License](https://img.shields.io/github/license/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning/blob/master/LICENSE)
 [![Issues](https://img.shields.io/github/issues/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning/issues)
 [![Stars](https://img.shields.io/github/stars/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning)
+Fork from PKUFlyingPig!!!
 
 新冠肆虐，网课当道，CS 爆火，这一系列的事件都让自学计算机成为了一种潮流。
 
